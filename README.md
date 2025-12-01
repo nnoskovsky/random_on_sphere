@@ -83,9 +83,12 @@ The Monte Carlo script in this repository numerically confirms these formulas.
 
 ---
 ##References
+
+
 Random Point Sets on the Sphere --- Hole Radii, Covering, and Separation , https://arxiv.org/abs/1512.07470
 tensors_like_physicist.pdf --- https://vk.com/doc110337008_616974849?hash=DVpa01j0BZRvQ4pCZqwo5m5IBKQNkZhmkrlLd4NcJ38&dl=MqBGU2ZNpYFUgQHSFKbwEmcHO0DA2s8uNJeuZGOzBuT ( From MIPT Students public in VK )
 tensors.pdf --- Lecture notes “Tensors and integrals on a sphere,” MIPT teaching manual (author not specified, in Russian).
+
 ## Installation
 
 ```bash
